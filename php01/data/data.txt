@@ -1,0 +1,12 @@
+藤田真吾,go,48
+藤田真吾,gottagaeshi0919@yahoo.co.jp,38
+藤田真吾,gottagaeshi0919@yahoo.co.jp,38
+藤田真吾,gottagaeshi0919@yahoo.co.jp,48
+,,,long,weight,footsize
+あ,,,long,weight,footsize
+藤田真吾,,,175 ,75,
+藤田真吾,,,175 ,75,
+藤田真吾,,,175 ,75,
+藤田真吾,,,175 ,75,
+藤田真吾,,,,,33
+藤田真吾,gottagaeshi0919@yahoo.co.jp,48,175 ,,
